@@ -1,5 +1,4 @@
 @use 'sass/_vendors/_normalize.css';
-
-:root{
-    max-width:100%;
-}
+@use '/node_modules/animate.css/animate.css';
+@use 'sass/_organisms/grid.scss';
+@use 'sass/_templates/global.scss';
