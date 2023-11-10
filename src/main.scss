@@ -1,4 +1,5 @@
-@use '/src/sass/_utilities/var';
-@use '/src/sass/_utilities/mixin';
+@use 'sass/_vendors/_normalize.css';
 
-@use'/src/sass/_vendors/_normalize.css';
+:root{
+    max-width:100%;
+}

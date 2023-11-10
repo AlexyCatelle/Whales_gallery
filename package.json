@@ -7,13 +7,12 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@parcel/transformer-sass": "^2.10.2",
     "parcel": "^2.10.2"
   },
-  
-"source": "src/index.html",
-"scripts": {
-  "start": "parcel",
-  "build": "parcel build"
-}
-
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  }
 }
